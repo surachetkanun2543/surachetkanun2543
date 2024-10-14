@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surachet Kan-un</h1>
-<h3 align="center">A Software Test Engineer</h3>
+<h3 align="center">A Software Quality Assurance Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surachetkanun2543&label=Profile%20views&color=0e75b6&style=flat" alt="surachetkanun2543" /> </p>
 
@@ -49,5 +49,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surachetkanun2543&" alt="surachetkanun2543" /></p>
 
 [![surachetkanun2543's GitHub | Stats](https://stats.quira.sh/surachetkanun2543/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=surachetkanun2543)
-
-[![surachetkanun2543's GitHub | Languages Over Time](https://stats.quira.sh/surachetkanun2543/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=surachetkanun2543)
